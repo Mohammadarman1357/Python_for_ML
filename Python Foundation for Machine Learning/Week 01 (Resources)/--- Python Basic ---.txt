@@ -1,0 +1,40 @@
+--- Python Basic ---
+--------------------
+
+1.1 Installing Python and Compiler :
+-----------------------------------
+
+-- Python Installation Guideline ---
+------------------------------------
+
+Python : https://www.python.org/
+
+VS Code: https://code.visualstudio.com/
+
+
+Required Extensions for VS Code:
+
+Python 
+Jupyter 
+
+
+Required Packages for Python:
+
+Jupyter
+Ipykernel
+
+-----------
+
+python package install :
+-----------------------
+
+- pip install jupyter
+- pip list --> 
+
+- pip --> Preferred Installation Program
+
+--------------------
+
+1.2 Variables and Data Type in Python :
+--------------------------------------
+

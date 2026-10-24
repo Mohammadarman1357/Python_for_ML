@@ -1,0 +1,12 @@
+--- Module 04 ---
+-----------------
+
+Jupyter autocomplete enable :
+----------------------------
+
+jupyter contrib nbextension --> nb --> notebook
+
+cmd --> pip install jupyter_contrib_nbextensions
+
+-----------
+
