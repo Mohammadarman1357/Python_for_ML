@@ -1,0 +1,64 @@
+--- Numpy ---
+-------------
+
+- Numpy --> Numerical Python
+
+- Introduction
+- Numpy Array :
+  - Scratch
+  - random
+
+- Array Indexing Slicing
+- 2D Data --> Matrix
+- Advanced Indexing
+
+---------
+
+Module :
+- Concept --> Code --> Store yourself
+
+-----
+
+Numpy :
+------
+
+--> Numerical Python
+
+1. Core Structure --> ndarray --> N dimensional array
+
+1. List --> [10, 10.5, "str"] --> scatter
+
+ndarray --> memory te data continuously thake
+
+ndarray :
+--------
+
+	   	-------------------------------
+continuous -->   1   |  2  |  3  |  4  |  5  |	 <-- value (int)
+	   	-------------------------------
+                 101 | 105 | 109 | 113 | 117 	<-- address (int)
+
+
+----
+ndarray te --> Same Type (Homogeneous) hoi
+
+list slow --> different type
+
+----
+
+Vectorization :
+--------------
+
+- CPU --> SIMD --> Single Instruction Multiple Data
+
+---------
+
+numpy use for : (Mathematical)
+--------------
+
+- Linear algebra
+- Math
+- Statistics
+
+--------------------
+
