@@ -1,0 +1,15 @@
+--- Numpy Part 2 ---
+--------------------
+
+Optional --> (2 Probability - Deep - ML)
+
+1. nD-array - manipulation
+2. Arithmetical and Mathemaical
+3. Logical Method
+4. Sorting
+5. Searching
+6. Counting
+7. Statistical --> numpy  --> Data Preprocess , EDA, feature
+8. Linear Algebra
+
+
