@@ -1,0 +1,113 @@
+---- Data Analaysis with Pandas ---
+-----------------------------------
+
+1. Pandas intro
+2. Dataframe and seies
+3. CSV, Excel --> dataframe
+4. Pandas Basic function
+5. Inbuilt --> Dataframe
+6. Accessing data
+7. loc and iloc
+8. deleting rows, column 
+9. DF  --> sorting
+10. filtering  ---> basic
+11. Problem solving --> optional
+
+---------
+
+Pandas : (Powerful libraries)
+--------
+|
+- data cleaning
+| 
+- preprocessing
+|
+- analysis
+
+- Model 
+- garbase, null values, outliens
+
+
+----------
+
+1. cleaning
+2. EDA --> Exploratory data analysis
+3. feature engineering
+
+----------
+
+Numpy :
+------
+
+- functionalities
+- standard division
+- mean
+- correcoef
+
+----------
+
+2. Pandas DataFrame and Series :
+-------------------------------
+
+Dataframe :
+
+- Tabular Data
+- Core Structure
+
+-----------
+
+Series :
+
+- Single row /
+- Single column
+
+------------
+
+3. Working with Different file types in Pandas :
+-----------------------------------------------
+
+Different file loading in Pandas :
+
+- text
+- csv (Comma Separated Value)
+- Excel file (xlsx)
+- Paruet file (fast)
+- json
+
+-----
+
+what is the most common data format for machine learning? 
+
+- The most common data format for tabular and general machine learning datasets is CSV (Comma-Separated Values).
+
+------------------
+
+4. Pandas Basic Functionalities :
+--------------------------------
+
+-
+
+6. Accessing Value of a dataframe
+
+-
+
+7. Changing Index and Columns and iloc :
+
+-
+
+8 Dropping rows and columns,Assigning values and Iteration :
+
+- 
+
+9. Sorting a DF :
+
+- 
+
+10. Filtering Data based on condition :
+
+- 
+
+11. Module Overview :
+
+- 
+
