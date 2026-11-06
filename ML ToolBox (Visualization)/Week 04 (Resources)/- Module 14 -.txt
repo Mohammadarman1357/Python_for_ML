@@ -1,0 +1,20 @@
+- Module 14 -
+- Pandas for Machine Learning -
+--------------------------------
+
+1. Module Overview :
+-------------------
+
+1. filteriing based on string
+2. Adding new column
+3. Duplicate, new
+4. Null --> Handle
+5. Statistical method
+6. Apply function
+7. Date time
+8. Group by
+
+--------------
+
+1. Filtering Based on String :
+
