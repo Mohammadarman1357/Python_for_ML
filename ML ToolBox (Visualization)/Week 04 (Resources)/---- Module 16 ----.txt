@@ -1,0 +1,59 @@
+---- Module 16 ----
+
+-- Data Visualization with Seaborn and Plotly --
+------------------------------------------------
+
+0. Module Intro :
+
+Seaborn :
+- Lineplot
+- Scatter plot
+- Facet plot 
+- histogram
+- count plot & bar plot 
+- regresion plot  (opional)
+- Pair plot & join plot (optional)
+
+Plotly : (Bonus)
+- Scatterplot 
+- Line plot 
+- histogram
+
+------
+
+1. Lineplot using Seaborn :
+
+- Time delta 
+
+2. Scatterplot using Seaborn :
+
+-
+
+3. Facet Plot Using Seaborn :
+
+-
+
+4. Histogram using Seaborn :
+
+- distribution
+
+
+5. KDE plot using Seaborn :
+
+- Kernel Density Estimation 
+
+6. Count Plot and Bar Plot using Seaborn :
+
+- categorical
+
+7. (Optional) Regplot using seaborn :
+
+- Regression plot 
+
+8. Pairplot and Jointplot using Seaborn : 
+
+- 
+
+
+
+
