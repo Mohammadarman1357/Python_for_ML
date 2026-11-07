@@ -1,0 +1,63 @@
+-- Module 15 --
+---------------
+
+- Data Visualization with Matplotib -
+-------------------------------------
+
+0. Module Introduction :
+
+- EDA --> Exploratory Data Analysis
+
+1. 2D --> line plot 
+2. Scatter plot 
+3. histogram
+4. Bar chart
+5. Pie chart
+
+-----------
+
+1. Usage of 2D Line Plot :
+
+- how a value changes over time
+- time series data
+- ex : Business, temperature 
+
+2. 2D Line Plot Basics :
+
+- 
+
+3. 2D Line from Pandas DF :
+
+- 
+
+4. Customizing Line plot ( color,linestyle,marker) and Grid :
+
+-
+- hex color 
+
+5. Usage of Scatter Plots :
+
+Scatter Plots :
+- to find correlation between features 
+
+---
+
+6. Scatter Plots :
+
+- 
+
+7. Histogram :
+
+- data distributed  over a factor
+- frequency 
+- outliers 
+
+
+8. Bar Chart :
+
+-
+
+9. Pie Chart :
+
+-
+
